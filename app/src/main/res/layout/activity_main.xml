@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_margin="20dp"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:text="@string/IrGoogle"
+            android:layout_margin="30dp"
+            android:id="@+id/Google"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" >
+        </Button>
+
+        <Button
+            android:text="@string/IrAlarma"
+            android:layout_margin="30dp"
+            android:id="@+id/Alarma"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" >
+        </Button>
+
+        <Button
+            android:text="@string/IrTelefono"
+            android:id="@+id/Telefono"
+            android:layout_margin="30dp"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" >
+        </Button>
+
+        <Button
+            android:text="@string/Irmensajedetxt"
+            android:id="@+id/Mensajetxt"
+            android:layout_margin="30dp"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" >
+        </Button>
+
+        <Button
+            android:text="@string/IrWifi"
+            android:id="@+id/Wifi"
+            android:layout_margin="30dp"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp" >
+        </Button>
+
+
+</LinearLayout>
+
+
+</LinearLayout>

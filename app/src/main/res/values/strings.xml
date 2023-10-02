@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App_variada</string>
+    <string name="IrGoogle">Ir a Google</string>
+    <string name="IrAlarma">Ir Alarma </string>
+    <string name="IrTelefono">Ir Llamada</string>
+    <string name="Irmensajedetxt">Ir mensajetxt</string>
+    <string name="IrWifi">Ir Wifi</string>
+
+
+
+
+</resources>
